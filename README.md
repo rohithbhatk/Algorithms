@@ -1,7 +1,9 @@
-DDDD# Algorithms
+Algorithms
 
-Hello this is my assignment
-this is some modiications
+
+To demonstrate various Algorithms
+
+1. Gale-Shapley Stable matching Algorithm
 ____________________________
 
 
